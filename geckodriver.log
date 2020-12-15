@@ -1,0 +1,276 @@
+1607989033102	geckodriver	INFO	Listening on 127.0.0.1:52780
+1607989034146	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofiledDsIb2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607989037316	Marionette	INFO	Listening on port 52791
+1607989037486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607989049316	Marionette	INFO	Stopped listening on port 52791
+1607989124214	geckodriver	INFO	Listening on 127.0.0.1:53339
+1607989124226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofilepWLSvn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607989126602	Marionette	INFO	Listening on port 53344
+1607989126648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607989201554	geckodriver	INFO	Listening on 127.0.0.1:53823
+1607989201565	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileFqgnCS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607989204205	Marionette	INFO	Listening on port 53828
+1607989204309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607989208612	Marionette	INFO	Stopped listening on port 53828
+1607989380817	geckodriver	INFO	Listening on 127.0.0.1:54771
+1607989380828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofilebHHckH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607989383405	Marionette	INFO	Listening on port 54776
+1607989383439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://us.louisvuitton.com/akam-sw.js for scope https://us.louisvuitton.com/ encountered an error during installation.
+1607989519991	geckodriver	INFO	Listening on 127.0.0.1:55611
+1607989521009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileU2aHV9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607989524367	Marionette	INFO	Listening on port 55627
+1607989524410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607989555753	Marionette	INFO	Stopped listening on port 55627
+1607989557244	Marionette	INFO	Stopped listening on port 54776
+1607989558675	Marionette	INFO	Stopped listening on port 53344
+1607989603318	geckodriver	INFO	Listening on 127.0.0.1:56154
+1607989604303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofilehUxZwz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607989607400	Marionette	INFO	Listening on port 56165
+1607989607442	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607989622772	geckodriver	INFO	Listening on 127.0.0.1:56392
+1607989622786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileXhjQQz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607989626117	Marionette	INFO	Listening on port 56397
+1607989626147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://us.louisvuitton.com/akam-sw.js for scope https://us.louisvuitton.com/ encountered an error during installation.
+1607989750555	Marionette	INFO	Stopped listening on port 56397
+1607989752960	geckodriver	INFO	Listening on 127.0.0.1:57119
+1607989752973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileAS2kBW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607989755267	Marionette	INFO	Listening on port 57124
+1607989755375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://us.louisvuitton.com/akam-sw.js for scope https://us.louisvuitton.com/ encountered an error during installation.
+1607989866023	geckodriver	INFO	Listening on 127.0.0.1:57759
+1607989866034	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileNmaqUB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607989868449	Marionette	INFO	Listening on port 57764
+1607989868562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990066902	Marionette	INFO	Stopped listening on port 57764
+1607990068309	Marionette	INFO	Stopped listening on port 57124
+1607990071183	Marionette	INFO	Stopped listening on port 56165
+1607990074082	geckodriver	INFO	Listening on 127.0.0.1:58817
+1607990075097	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofilejfZhK8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990077440	Marionette	INFO	Listening on port 58828
+1607990077527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://us.louisvuitton.com/akam-sw.js for scope https://us.louisvuitton.com/ encountered an error during installation.
+1607990113013	geckodriver	INFO	Listening on 127.0.0.1:59129
+1607990113025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofile13sXju"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990115291	Marionette	INFO	Listening on port 59135
+1607990115402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990142072	geckodriver	INFO	Listening on 127.0.0.1:59407
+1607990142085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofile09zTXa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990144743	Marionette	INFO	Listening on port 59412
+1607990144804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990151421	Marionette	INFO	Stopped listening on port 59412
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607990246608	geckodriver	INFO	Listening on 127.0.0.1:60005
+1607990246622	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileIEzWUM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990249909	Marionette	INFO	Listening on port 60010
+1607990249957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990297991	geckodriver	INFO	Listening on 127.0.0.1:60377
+1607990298002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofile9ZbvUm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990300644	Marionette	INFO	Listening on port 60382
+1607990300748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990456500	geckodriver	INFO	Listening on 127.0.0.1:61402
+1607990457489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileRBMauZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990460955	Marionette	INFO	Listening on port 61417
+1607990461042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990473661	Marionette	INFO	Stopped listening on port 61417
+1607990494897	geckodriver	INFO	Listening on 127.0.0.1:61719
+1607990494911	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofilencFoob"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990497964	Marionette	INFO	Listening on port 61724
+1607990498168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990535058	geckodriver	INFO	Listening on 127.0.0.1:62032
+1607990536031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofile4gBnc9"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990539105	Marionette	INFO	Listening on port 62043
+1607990539195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990613503	geckodriver	INFO	Listening on 127.0.0.1:62529
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607990614524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileECfGLJ"
+1607990616645	Marionette	INFO	Stopped listening on port 59135
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990617891	Marionette	INFO	Listening on port 62542
+1607990617976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990619002	Marionette	INFO	Stopped listening on port 60010
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607990621472	Marionette	INFO	Stopped listening on port 60382
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "ContentParent: id=10be0d800"
+1607990623732	Marionette	INFO	Stopped listening on port 61724
+1607990626185	Marionette	INFO	Stopped listening on port 62043
+1607990628631	Marionette	INFO	Stopped listening on port 58828
+1607990629415	Marionette	INFO	Stopped listening on port 62542
+1607990744364	geckodriver	INFO	Listening on 127.0.0.1:63240
+1607990744375	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileZjzvWC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990746199	Marionette	INFO	Listening on port 63245
+1607990746285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990757805	Marionette	INFO	Stopped listening on port 63245
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607990843675	geckodriver	INFO	Listening on 127.0.0.1:63837
+1607990843686	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileyo1pUc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990845686	Marionette	INFO	Listening on port 63842
+1607990845779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990857460	Marionette	INFO	Stopped listening on port 63842
+1607990916122	geckodriver	INFO	Listening on 127.0.0.1:64303
+1607990916135	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileQubQA5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990918111	Marionette	INFO	Listening on port 64308
+1607990918213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607990968691	geckodriver	INFO	Listening on 127.0.0.1:64667
+1607990968706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileva4q1n"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607990970625	Marionette	INFO	Listening on port 64672
+1607990970706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607991233496	geckodriver	INFO	Listening on 127.0.0.1:49637
+1607991233510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileUeonxF"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607991236890	Marionette	INFO	Listening on port 49642
+1607991236964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607991282016	geckodriver	INFO	Listening on 127.0.0.1:50017
+1607991282035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileIq8VdD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607991285616	Marionette	INFO	Listening on port 50022
+1607991285675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+1607991292177	Marionette	INFO	Stopped listening on port 50022
+1607991393752	geckodriver	INFO	Listening on 127.0.0.1:50652
+1607991393765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0x/wbt6ph4s27g488z3v_9nfvx40000gn/T/rust_mozprofileawvmHf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607991395935	Marionette	INFO	Listening on port 50657
+1607991396060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
+JavaScript warning: https://us.louisvuitton.com/_nuxt/cef76ff.js, line 1: unreachable code after return statement
