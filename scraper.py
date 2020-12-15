@@ -21,6 +21,10 @@ driver.get(urlpage)
 # sleep for 10s
 time.sleep(5)
 
+# use BS to find tag
+soup = BeautifulSoup(urlpage, 'html.parser')
+print(soup.head)
+
 # find elements by xpath
 results = driver.find_elements_by_xpath('//*[@id="__layout"]/div/div[2]/div[2]/div/div[1]/div[2]/div[4]/button')
 # results = driver.find_element_by_class_name('lv-product-stock-indicator')
